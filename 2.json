@@ -1,0 +1,40 @@
+{
+  "name": "Mascots NFT's - Kauji Kingz Mascots #2",
+  "description": "1000 Kauji Mascots exist in the metaverse ready to party it up at the Carnival. Join the Mascots to celebrate the success of the parent NFT collections and get the chance to win your very own parent NFT. ",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "8b4c454b3065524262c9891947e79a793d5906ab",
+  "edition": 2,
+  "date": 1651270281184,
+  "artist": "@paulinakaterina",
+  "attributes": [
+    {
+      "trait_type": "Costume Color",
+      "value": "Black and Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Neutral Medium"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straight Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scouter"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Officer Cap"
+    }
+  ],
+  "compiler": "Mascots Art Engine"
+}
